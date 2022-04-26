@@ -1,0 +1,52 @@
+
+
+
+.swal2-styled.swal2-confirm {
+  border: 0;
+  border-radius: .25em;
+  align-items: center;
+  margin-right: 30px;
+    color: rgb(255, 255, 255);
+  font-size: 1em;
+  background-color: #05595B;
+}
+  *{
+    font-family: roboto;
+    padding: 0px;
+    font-size: 20px;
+    text-align: center;
+    background-color: #05595B;
+    color: white;
+  }
+ .swal2-title    {position: relative;
+ max-width: 100%;
+ margin: 0;
+ padding: .8em 1em 0;
+color: #ffffff;
+ font-weight: 600;
+ text-align: center;
+ text-transform: none;
+ word-wrap: break-word;
+}
+
+
+  button {
+    height: 50px;
+    width: 70px;
+    border: 1px solid white;
+    float: left;
+    color: #ffffff;
+  }
+
+  
+  
+  #ticket {
+    width: 650px;
+    margin: auto;
+  }
+  
+  h1 {
+    font-size: 70px;
+    color: #ffffff;
+  }
+ 
